@@ -1,0 +1,14 @@
+.pagination{
+    display: block;
+    margin: 0 auto;
+    width: max-content;
+}
+
+
+
+.container{
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+
+}
